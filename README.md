@@ -1,6 +1,6 @@
 # Portfolio Webseite
 
-Eine einfache Portfolio Webseite mit HTML, CSS und JavaScript.
+Eine einfache Portfolio Webseite mit HTML, CSS und JavaScript!
 
 ## Features
 
