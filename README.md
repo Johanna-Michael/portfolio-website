@@ -13,6 +13,7 @@ Eine einfache Portfolio Webseite mit HTML, CSS und JavaScript!
 - `index.html` - Hauptseite
 - `style.css` - Styling
 - `script.js` - Interaktivität
+- `README.md` - Beschreibung des Projekts
 
 ## Nutzung
 
