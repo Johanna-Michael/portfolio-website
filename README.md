@@ -18,3 +18,5 @@ Eine einfache Portfolio Webseite mit HTML, CSS und JavaScript!
 ## Nutzung
 
 Öffne `index.html` im Browser.
+
+Fingerprint
