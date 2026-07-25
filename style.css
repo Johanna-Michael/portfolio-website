@@ -15,8 +15,13 @@ h1 {
   padding: 20px;
   background-color: white;
   border-radius: 8px;
+<<<<<<< HEAD
   border: 2px solid navy;
   padding: 1rem;
+=======
+  border: 4px dashed hotpink;
+  padding: 1.5rem;
+>>>>>>> 2047c7c (Border wird pink.)
 }
 
 .skills ul {
