@@ -4,5 +4,4 @@ const message = document.getElementById("message");
 contactBtn.addEventListener("click", function () {
   message.style.display = "block";
   contactBtn.style.display = "none";
-  console.log("Event")
 });
